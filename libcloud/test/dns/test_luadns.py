@@ -162,7 +162,7 @@ class LuadnsTests(unittest.TestCase):
         second_record = records[1]
         self.assertEqual(second_record.id, "6684")
         self.assertEqual(second_record.type, "NS")
-        self.assertEqual(second_record.name, "")
+        self.assertEqual(second_record.name, "www")
         self.assertEqual(second_record.data, "a.ns.luadns.net.")
         self.assertEqual(second_record.zone, self.test_zone)
 

@@ -11,7 +11,7 @@
   },
   {
     "id": 6684,
-    "name": "example.com.",
+    "name": "www.example.com.",
     "type": "NS",
     "content": "a.ns.luadns.net.",
     "ttl": 86400,
